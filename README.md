@@ -1,6 +1,10 @@
 # codelabs_challenge
 
-A new Flutter project.
+## Learning How To Use English Word Package In CodeLabs
+
+### CodeLabs Challenge Link
+* [PartOne](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
+* [PartTwo](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
 
 ## Getting Started
 
